@@ -28,9 +28,6 @@
 
 💡 Passionate about turning bold ideas into real-world products!<br><br>
 
-👉 Here’s a glimpse into my daily coding energy 🔥:<br>
-👉 Developer at Work GIF<br><br>
-
 🚀 Let’s connect if you're looking for a Flutter expert + backend wizard who delivers real business impact with cutting-edge technologies.
 </h2>
 
