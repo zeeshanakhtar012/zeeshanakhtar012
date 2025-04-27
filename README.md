@@ -1,4 +1,39 @@
-<h2 align="left">👋 Hi, I'm Zeeshan Akhtar — a senior Flutter App Developer 🛠️ passionate about building fast 🚀, scalable 📈, and beautiful 📱 mobile solutions.<br><br>I specialize in:<br><br>🧠 Cross-platform app development (Flutter)<br><br>⚡ High-performance optimization<br><br>🎨 Pixel-perfect UI/UX implementations<br><br>🔗 API integrations (REST, WebSocket, Firebase)<br><br>🏛️ Clean Architecture & State Management (GetX, Riverpod, Bloc)<br><br>💬 I believe great apps aren't just about stunning UI — they are engineered for real-world performance and future growth.<br>Check out how I love to build apps with speed and precision 🚀:<br>👉 Flutter Animation GIF<br><br>💡 Passionate about turning ideas into real mobile products!<br>Here’s a peek into my development energy 🔥:<br>👉 Developer at Work GIF<br><br>🚀 Let’s connect if you're looking for a Flutter expert who delivers real business impact.</h2>
+<h2 align="left">
+👋 Hi, I'm <b>Zeeshan Akhtar</b> — a <b>Senior Flutter App Developer</b> 🛠️ and <b>Full-Stack Programming Enthusiast</b> passionate about building <b>fast 🚀, scalable 📈, and beautiful 📱</b> mobile and backend solutions.<br><br>
+
+<b>I specialize in:</b><br><br>
+
+🧠 Cross-platform mobile development (Flutter)<br><br>
+
+⚡ High-performance app optimization<br><br>
+
+🎨 Pixel-perfect UI/UX implementations<br><br>
+
+🔗 Seamless API integrations (REST, WebSocket, Firebase)<br><br>
+
+🏛️ Clean Architecture & State Management (GetX, Riverpod, Bloc)<br><br>
+
+🛠️ Node.js Backend Development<br><br>
+
+🗄️ SQL & MongoDB Database Expert<br><br>
+
+💻 C, C++, and Python Development<br><br>
+
+🧹 Data Extraction & Automation Specialist<br><br>
+
+💬 I believe great apps aren't just about stunning UI — they are engineered for real-world performance, scalability, and future growth.<br><br>
+
+👉 Check out how I love building products with speed and precision 🚀:<br>
+👉 Flutter Animation GIF<br><br>
+
+💡 Passionate about turning bold ideas into real-world products!<br><br>
+
+👉 Here’s a glimpse into my daily coding energy 🔥:<br>
+👉 Developer at Work GIF<br><br>
+
+🚀 Let’s connect if you're looking for a Flutter expert + backend wizard who delivers real business impact with cutting-edge technologies.
+</h2>
+
 
 ###
 
