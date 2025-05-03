@@ -23,9 +23,6 @@
 
 💬 I believe great apps aren't just about stunning UI — they are engineered for real-world performance, scalability, and future growth.<br><br>
 
-👉 Check out how I love building products with speed and precision 🚀:<br>
-👉 Flutter Animation GIF<br><br>
-
 💡 Passionate about turning bold ideas into real-world products!<br><br>
 
 🚀 Let’s connect if you're looking for a Flutter expert + backend wizard who delivers real business impact with cutting-edge technologies.
